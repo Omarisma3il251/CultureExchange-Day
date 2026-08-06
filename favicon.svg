@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#082226"/>
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="#C9962C" stroke-width="1.5" opacity="0.55"/>
+  <!-- eyebrow -->
+  <path d="M11 21 Q32 9 55 19" stroke="#E8B84B" stroke-width="4.2" fill="none" stroke-linecap="round"/>
+  <!-- eye body -->
+  <path d="M9 33 Q32 20 55 27 Q40 44 23 41 Q13 39 9 33 Z" fill="#E8B84B"/>
+  <!-- pupil -->
+  <circle cx="29" cy="31" r="6.4" fill="#0E3B40"/>
+  <!-- cheek marking / spiral tail -->
+  <path d="M11 34 Q6 42 13 48 Q18 52 13 57" stroke="#E8B84B" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- teardrop -->
+  <path d="M46 35 Q51 41 46 48 Q41 41 46 35 Z" fill="#E8B84B"/>
+</svg>
